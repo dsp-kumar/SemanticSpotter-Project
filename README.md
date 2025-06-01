@@ -10,11 +10,7 @@ using  [LangChain](https://python.langchain.com/docs/introduction/).
 The goal of the project is to build a robust generative search system capable of effectively and accurately
 answering questions from a bunch of policy documents.
 
-## 3. Document
-
-1. The policy documents can be found [here](./Policy+Documents)
-
-## 4. Approach
+## 3. Approach
 
 LangChain is a framework that simplifies the development of LLM applications LangChain offers a suite of tools,
 components, and interfaces that simplify the construction of LLM-centric applications. LangChain enables developers to
@@ -114,13 +110,3 @@ The LangChain framework revolves around the following building blocks:
 - Please ensure that you add your OpenAI API key to the empty text file named "OpenAI_API_Key.txt" in order to access
   the
   OpenAI API.
-
-## 8. Running
-
-- Clone the github repository
-  ```shell
-  $ git clone https://github.com/SanjayaKumarSahoo/semantic-spotter-project.git
-  ```
-- Open
-  the [notebook](https://github.com/SanjayaKumarSahoo/semantic-spotter-project/blob/main/semantic-spotter-langchain-notebook.ipynb)
-  in jupyter and run all cells.
